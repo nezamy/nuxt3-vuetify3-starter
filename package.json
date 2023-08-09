@@ -14,7 +14,8 @@
     "@nuxtjs/google-fonts": "^3.0.0",
     "nuxt": "^3.6.5",
     "sass": "^1.62.0",
-    "vuetify": "^3.1.15"
+    "vuetify": "^3.1.15",
+    "volar-service-vetur": "latest"
   },
   "dependencies": {
     "vite-plugin-vuetify": "^1.0.2"
